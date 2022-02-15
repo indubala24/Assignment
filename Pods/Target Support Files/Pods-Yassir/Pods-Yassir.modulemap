@@ -1,0 +1,6 @@
+framework module Pods_Yassir {
+  umbrella header "Pods-Yassir-umbrella.h"
+
+  export *
+  module * { export * }
+}
